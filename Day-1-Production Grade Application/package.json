@@ -1,0 +1,21 @@
+{
+  "name": "production-grade-application",
+  "version": "1.0.0",
+  "description": "A basic app that is ready for going into production.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "js",
+    "javascript"
+  ],
+  "author": "Meet Shah",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
