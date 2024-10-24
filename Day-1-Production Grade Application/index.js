@@ -85,7 +85,7 @@ app.get("/youtube", (req, res) => {
 
 app.get("/github", (req, res) => {
     res.json(dummyJsonData);
-})
+});
 app.listen(process.env.PORT, function () {
   console.log(`App listening on http://localhost:${port}`);
 });
