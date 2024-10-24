@@ -9,7 +9,7 @@ const express = require("express");
 and
 
 ```js
-import express form 'express';
+import express from 'express';
 ```
 
 <br> <br> <br>
